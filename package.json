@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/MadOgre/coffee-n-code-poster/issues"
   },
-  "homepage": "https://github.com/MadOgre/coffee-n-code-poster#readme"
+  "homepage": "https://github.com/MadOgre/coffee-n-code-poster#readme",
+  "dependencies": {
+    "fb": "^1.1.1",
+    "node-schedule": "^1.2.1"
+  }
 }
